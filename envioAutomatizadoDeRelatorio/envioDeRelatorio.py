@@ -14,16 +14,13 @@ pyautogui.hotkey ("ctrl","v")
 pyautogui.press("enter")
 time.sleep(5) #pausa 5s a execução pra página carregar
 
-##Passo 2: Entrar na pasta do sistema que contém os dados
-
-pyautogui.click(935, 669, clicks=2)#local onde deve ocorrer o click (x,y, nº de clicks)
-
-##Passo 3: Baixar arquivo de dados
-
-pyautogui.click(2027,911)
-pyautogui.click(3327, 392)
-pyautogui.click(2794, 1487)
-time.sleep(10)
+##Passo 2 e 3:  Entrar na pasta do sistema que contém os dados e Baixar arquivo de dados
+pyautogui.click(-842, 361, clicks=1)#local onde deve ocorrer o click (x,y, nº de clicks)
+time.sleep(2)
+pyautogui.click(-595,154, clicks=1)
+time.sleep(2)
+pyautogui.click(-773,534, clicks=1)
+time.sleep(10)#esperar o download ser concluido
 
 ##Passo 4: Analisar os dados
 
