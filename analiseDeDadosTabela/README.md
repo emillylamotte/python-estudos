@@ -4,7 +4,7 @@ Este algoritmo foi desenvolvido durante a imersão de desenvolvimento em Python 
 
 ## Tecnologias utilizadas:
 
-- Extensão Jupyter no VSCode;
+- Extensão Jupyter Notebook no VSCode;
 - Bibliotecas: pandas e plotly.
 
 **tabela de dados disponibilizada em: [https://www.kaggle.com/sakshigoyal7/credit-card-customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
