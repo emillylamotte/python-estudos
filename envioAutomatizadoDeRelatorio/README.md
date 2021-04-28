@@ -1,5 +1,5 @@
 # Análise e envio automatizado de dados de relatório por e-mail
-
+Este algoritmo foi desenvolvido durante a imersão de desenvolvimento em Python da Hashtag Treinamentos, entre os dias 26 e 29/04/2021. 
 ## Tecnologias Utilizadas:
 
 - Extensão Jupyter no VSCode;
