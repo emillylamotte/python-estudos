@@ -2,8 +2,7 @@
 
 ## Tecnologias Utilizadas:
 
-- Jupyter;
-- Anaconda;
+- Extensão Jupyter no VSCode;
 - Bibliotecas: pyautogui, time, pyperclip e pandas.
 
 ## Sobre o Projeto
